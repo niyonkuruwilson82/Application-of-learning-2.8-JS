@@ -1,0 +1,5 @@
+Application of learning 2.8.
+
+You are developing a user registration form for a website, and you want to ensure that users
+enter valid information. You are tasked to use regular expressions in JavaScript to validate
+certain fields.
